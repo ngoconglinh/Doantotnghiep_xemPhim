@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760809858989",
+    "project_id": "realphim-9e426",
+    "storage_bucket": "realphim-9e426.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760809858989:android:fcc13e826f6c78d0d46324",
+        "android_client_info": {
+          "package_name": "com.example.doantotnghiep_xemphim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760809858989-qj5o7gusdol79esovbqobml0bblj2s1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj4mmGA7vfrbsKIoC2mdYj_7f258ppfoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760809858989-qj5o7gusdol79esovbqobml0bblj2s1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
